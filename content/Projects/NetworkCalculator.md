@@ -1,5 +1,9 @@
 ---
 title: Network Calculator
+tags:
+    - python
+    - kivy
+    - programing
 ---
 
 # NetworkCalculator

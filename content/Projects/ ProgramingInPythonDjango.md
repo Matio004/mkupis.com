@@ -8,7 +8,7 @@ tags:
 ---
 
 # Observations
-**Observations** is an aplication developed as an assignment for Programing in Python course. It allows user to store, add and delete data which would later be used to predict category of given observation.
+**Observations** is an application developed as an assignment for Programing in Python course. It allows user to store, add and delete data which would later be used to predict category of given observation.
 Prediction is made using scikit-learn KNeighborsClassifier (before running algorithm data is scaled using StandardScaler).
 
 ## Features
@@ -18,10 +18,10 @@ Prediction is made using scikit-learn KNeighborsClassifier (before running algor
 2. Application allows user to display all collected data in readable way. At this point user can also delete chosen record.
    <img width="1852" height="892" alt="obraz" src="https://github.com/user-attachments/assets/3ca9f368-4915-4f06-89e4-b93407a8eab5" />
 
-3. Applcation allows adding new observations using form.
+3. Application allows adding new observations using form.
    <img width="1892" height="927" alt="obraz" src="https://github.com/user-attachments/assets/8a28e95e-7eac-4854-9397-ca63553b8e8f" />
 
-4. Applcation allows runnting predictions. However user must provide enought train data, or else an error would occur.
+4. Application allows running predictions. However, user must provide enough train data, or else an error would occur.
    <img width="1882" height="896" alt="obraz" src="https://github.com/user-attachments/assets/04319f7f-a113-485f-b55f-6145fb18312c" />
    <img width="1906" height="662" alt="obraz" src="https://github.com/user-attachments/assets/875d024f-ffd0-442f-a175-3058568343a5" />
 
